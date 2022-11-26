@@ -18,7 +18,7 @@
 
 # [Git Repo](#table-of-contents)
 ```
-https://github.com/kabirfaisal1/eCommerce.git
+https://github.com/kabirfaisal1/Regex-Tutorial.git
 
 ```
 
